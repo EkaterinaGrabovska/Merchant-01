@@ -6,6 +6,7 @@ public class App {
         static String email;
         static String phone;
         static String productName;
+        static String merchantSurname;
         static int quantity;
         static double price;
         static String roundBonus;
